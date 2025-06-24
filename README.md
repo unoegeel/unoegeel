@@ -59,7 +59,7 @@ Infomation
 <div align="left">
 
 - 이름_Name:　　　이건우_Geonu Lee
-- 소속_Department: 한국외국어대학교 컴퓨터공학부_Department of Computer Engineering Science, Hankuk University of Foreign Studies
+- 소속_Department: 한국외국어대학교 컴퓨터공학부_Department of Computer Engineering Science, HUFS
 - 이메일_Email:　　 leegeonu02@gmail.com
 
 </details>
