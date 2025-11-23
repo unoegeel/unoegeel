@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=18&height=200&section=header&text=Hi%20there,%20I'm%20geonu&animation=twinkling&fontSize=70&fontAlignY=45"/>
 <br><br>
 
-### ◻️Tech Stack◻️
 ---
+
+### ◻️Tech Stack◻️
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 <br>
 
-### ◻️Tools◻️
 ---
+
+### ◻️Tools◻️
 
 <a href="https://github.com/unoegeel">
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -20,8 +22,9 @@
 
 <br>
 
-### ◻️Contact◻️
 ---
+
+### ◻️Contact◻️
 
 <a href="http://qr.kakao.com/talk/XnNl06oYdCkECDwrOwTTiQodPEE-">
 	<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
